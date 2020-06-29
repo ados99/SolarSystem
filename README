@@ -1,0 +1,9 @@
+This is a simple model of the solar system. It includes a rotate planets feature as well as a captions feature.
+
+This was written in CSS, HTML, and JQuery. The JQuery was used to display the captions on hover as well as account
+for starting/stopping the animation.
+
+Some additions in the future include having a link for each planet for more info, as well as making the captions not
+rotate with the planets.
+
+To view this app, simply clone this repo in your file system and open the html page.
